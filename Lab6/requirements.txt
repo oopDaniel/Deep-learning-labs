@@ -1,2 +1,1 @@
-git+https://github.com/oopDaniel/darkflow@eb7e830393f24233032b8578737141528be01d65
 git+https://github.com/google-research/tf-slim
