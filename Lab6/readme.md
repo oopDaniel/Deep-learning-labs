@@ -4,7 +4,31 @@
 
 ### Neural Style Transfer
 
+
+<div style="width:600px;display:flex;align-items:center;justify-content:space-around;margin-bottom:1rem">
+  <img width="250px" src="images/1.jpg" alt="">
+  <span> + </span>
+  <img width="250px" src="styles/11.jpg" alt="">
+  <span> = </span>
+</div>
+
+<img width="600px" src="preview/star.gif" alt="">
+
+<div style="margin:1rem">&nbsp;</div>
+
+<div style="width:600px;display:flex;align-items:center;justify-content:space-around;margin-bottom:1rem">
+  <img width="250px" src="images/2.jpg" alt="">
+  <span> + </span>
+  <img width="250px" src="styles/10.jpg" alt="">
+  <span> = </span>
+</div>
+
+<img width="600px" src="preview/fire.gif" alt="">
+
+
 ### Real-Time Object Detection (`YOLO`)
+
+![](preview/yolo.png)
 
 There are a bunch of dependency issues. Follow the instruction below carefully:
 
