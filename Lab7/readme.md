@@ -8,6 +8,6 @@ NOTE: [`glove.6B`](http://nlp.stanford.edu/data/glove.6B.zip) series is availabl
 
 ### Sentiment Analysis with `LSTM`
 
-### Text Generatation with `GRU`
+### Text Generation with `GRU`
 
 ### Translation with `seq2seq`
